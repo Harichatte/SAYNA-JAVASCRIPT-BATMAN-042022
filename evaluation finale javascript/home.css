@@ -21,6 +21,20 @@ header nav a{
     padding: 10%;
     font-size: 150%;
 }
+
+.partie1 h1{
+    color: #ffffff;
+}
+.partie1{
+    margin: 5%;
+    padding-top: 10%;
+    font-size: 20px;
+}
+.partie2{
+    padding-top: -10%;
+    margin: 5%;
+    text-align: right;
+}
 .texte2{
     font-size: 180%;
 }
@@ -76,4 +90,23 @@ header nav a{
 .contacte{
     background-color: #575e58;
     background-size: cover;
+}
+
+footer{
+    background-color: #000000;
+    align-items:center;
+    background-size: cover;
+    margin-top: -2%;
+    text-align: center;
+}
+
+footer .mini-texte{
+    padding-top: 15%;
+}
+
+footer .footer-logo{
+    padding-top: 3%;
+    padding: 3%;
+    justify-content: space-between;
+    
 }

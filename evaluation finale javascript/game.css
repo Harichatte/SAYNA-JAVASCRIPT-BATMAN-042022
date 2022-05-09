@@ -1,0 +1,98 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    background-image: url(./Assets/Illustrations/Game/Batgame1.png);
+    background-size: cover;
+    
+}
+header nav a{
+    color: aliceblue;
+    float: right;
+    justify-content: space-between;
+    margin-right: 10%;
+    padding: 5%;
+    text-decoration: none;
+}
+
+.partie1 h1{
+    color: #ffffff;
+}
+.partie1{
+    margin: 5%;
+    padding-top: 10%;
+    font-size: 20px;
+}
+.partie2{
+    padding-top: -3%;
+    margin: 5%;
+    text-align: right;
+}
+
+main{
+    margin-top: -5%;
+    background-color: #000000;
+    background-size: cover;
+}
+h4{
+    color: #ffffff;
+}
+.fleche{
+    text-align: center;
+}
+p{
+    color: #ffffff;
+    font-size: 25px;
+}
+.question h4{
+    border: 1px;
+    margin: 10px;
+    background-color: #c4c4c4;
+    width: 30%;
+    font-size: 25px;
+    
+
+}
+.niveau2{
+    text-align: center;
+}
+
+.chevalier h2{
+    color: #ffffff;
+    font-size: 30px;
+    
+}
+.chevalier{
+    padding: 10px;
+}
+button{
+    padding: 20px 100px;
+    background-color: #491b1ee0;
+    border: none;
+}
+button a{
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 25px;
+}
+
+footer{
+    background-color: #000000;
+    align-items:center;
+    background-size: cover;
+    margin-top: -2%;
+    text-align: center;
+}
+
+footer .mini-texte{
+    padding-top: 15%;
+}
+
+footer .footer-logo{
+    padding-top: 3%;
+    padding: 3%;
+    justify-content: space-between;
+    
+}
